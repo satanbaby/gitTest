@@ -18,3 +18,4 @@ edit to develope branch
 edit to develope branch in github again
 
 test Synchronize Merge Conflicts
+// 我選擇本機
