@@ -11,6 +11,8 @@ console.log('本機編輯')
 // 在接受兩邊衝突後，我又在合併時修改文字
 ```
 
+edit other
+
 edit to develope branch
 
 edit to develope branch in github again
