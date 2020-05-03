@@ -17,4 +17,4 @@ edit to develope branch
 
 edit to develope branch in github again
 
-test Synchronize
+test Synchronize and Merge Conflicts
