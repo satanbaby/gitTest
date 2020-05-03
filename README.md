@@ -14,3 +14,5 @@ console.log('本機編輯')
 edit to develope branch
 
 edit to develope branch in github again
+
+test Synchronize
